@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW M3 E30 Sport Evolution
+* source:	https://sketchfab.com/3d-models/bmw-m3-e30-sport-evolution-d0f6efddd2e84ed48c3f3b9a457471bf
+* author:	BadKarma™ (https://sketchfab.com/890244234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW M3 E30 Sport Evolution" (https://sketchfab.com/3d-models/bmw-m3-e30-sport-evolution-d0f6efddd2e84ed48c3f3b9a457471bf) by BadKarma™ (https://sketchfab.com/890244234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

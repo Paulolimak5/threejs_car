@@ -1,0 +1,144 @@
+canvas {
+    width: 100%;
+    height: 100px;
+    display: block;
+}
+
+#annotation1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 52%;
+    margin-top: 65vh;
+    padding: 10px;
+    width: 200px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: .5em;
+    font-size: 12px;
+    line-height: 1.2;
+    transition: opacity .5s;
+    &::before {
+        content: '1';
+        position: absolute;
+        top: -30px;
+        left: -30px;
+        width: 30px;
+        height: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.8);
+    }
+}
+
+#annotation2 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 40vw;
+    margin-top: 58vh;
+    padding: 10px;
+    width: 200px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: .5em;
+    font-size: 12px;
+    line-height: 1.2;
+    transition: opacity .5s;
+    &::before {
+        content: '2';
+        position: absolute;
+        top: -30px;
+        left: -30px;
+        width: 30px;
+        height: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.8);
+    }
+}
+
+#annotation3 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 40vw;
+    margin-top: 53vh;
+    padding: 10px;
+    width: 200px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: .5em;
+    font-size: 12px;
+    line-height: 1.2;
+    transition: opacity .5s;
+    &::before {
+        content: '3';
+        position: absolute;
+        top: -30px;
+        left: -30px;
+        width: 30px;
+        height: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.8);
+    }
+}
+
+#annotation4 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 40vw;
+    margin-top: 53vh;
+    padding: 10px;
+    width: 200px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: .5em;
+    font-size: 12px;
+    line-height: 1.2;
+    transition: opacity .5s;
+    &::before {
+        content: '4';
+        position: absolute;
+        top: -30px;
+        left: -30px;
+        width: 30px;
+        height: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.8);
+    }
+}
+
+#number1 {
+    position: absolute;
+    z-index: -1;
+}
+
+
+.botoes{
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+.botao{
+    border: 0;
+    margin: 5px;
+    height: 30px;
+    border-radius: 5px;
+    color: #6d32a8;
+    opacity: 0.8;
+    z-index: 1;
+}
